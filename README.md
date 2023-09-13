@@ -1,6 +1,7 @@
 # InfluencerDB-YouTube
 I Coded Instagram Influencers DataBase and Automated it with Python. 
-YouTube tutorial — https://youtu.be/IKB0S5mF00s
+ Instagram scraping module.
+Credit to — https://youtu.be/IKB0S5mF00s
 
 ## Contents
 
